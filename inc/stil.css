@@ -1,0 +1,73 @@
+body {background-color:white; 
+      font-family:arial;
+	  margin:0px;
+	  padding:0px;
+	  }
+
+#header {width:98%;
+		height:5%;
+		border:2px #000000 dotted;
+		margin: auto; /*  pune divul pe mijloc  */
+		background-color:white;
+		text-align:center; /*  pune textul pe mijloc  */
+		font-size:20px;
+		color:#000000;
+}	  
+
+#meniu {
+	overflow: hidden;
+	width:99%;
+	border:2px #000000 solid;
+	text-align: center;
+	margin:10px auto;
+	/* position:fixed; */
+}
+
+#meniu a {
+    text-decoration: none;
+	font-size:20px;
+	padding: 14px 16px;
+	color: #000000;
+}
+
+
+
+form {
+	left: 50%;
+  top: 50%;
+}
+
+#continut {
+	
+	width:80%;
+	text-align:center;
+	
+	margin: 10px auto;
+	
+}
+
+#tabelul{
+	border:1px solid blue;
+	width:40%;
+	margin:auto;
+}
+
+table{
+	border:1px solid black;
+	margin:auto;
+}
+
+span {
+	float:right;
+	font-size:15px;
+}
+
+.clear {
+	
+	width: 99%;
+	margin: 10px auto;
+	text-align:center;
+	border:1px black solid;
+}
+
+
